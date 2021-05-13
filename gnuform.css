@@ -1,0 +1,31 @@
+#cim {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(46, 46, 46);
+}
+
+#szöveg1 {
+    width: 600px;
+    height: 850px;
+}
+
+#szöveg2 {
+    float: right;
+    width: 600px;
+    height: 150px;
+}
+img {
+    float: left;
+    width: 430px;
+    height: 430px;
+    margin-top: -650px;
+    position: absolute;
+}
+
+body {
+    font-size: 15pt;
+}
+
+#ezegyszöveg {
+    margin-left: 30px;
+}

@@ -1,0 +1,25 @@
+#cim{
+    text-align: center;
+    background-color:rgb(46, 46, 46);
+    color: #f0f8ff; 
+    height:80px; 
+    font-size: 20pt;
+    
+}
+
+
+#szoveg{
+float: left;
+width: 850px;
+height: 300px;
+position: absolute;
+margin: 30px;
+}
+img{
+float: right;
+margin: 30px;
+}
+body{
+   font-size: 30pt;
+}
+    
